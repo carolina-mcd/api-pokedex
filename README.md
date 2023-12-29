@@ -1,8 +1,13 @@
 <H1 aligh = "center" >POKEDEX</H1>
+https://api-pokedex-gold.vercel.app/
 
 
 <h1>Descrição</h1>
 Projeto baseado em uma pokedex, onde a requisição é feita através da fetch API, utilizando a pokeapi.co.
+
+
+![Captura de tela de 2023-12-13 20-04-19](https://github.com/carolina-mcd/api-pokedex/assets/82965208/e5868b50-b6c9-482e-9008-340bc97570bf)
+
 
 
 
@@ -29,7 +34,6 @@ Projeto baseado em uma pokedex, onde a requisição é feita através da fetch A
   
 - Path Params e Query String.
 
-<h2 bold>Você poderá conferir em:</h2>
-SITE POKEDEX (http://127.0.0.1:5500/index.html).
+
 
 
